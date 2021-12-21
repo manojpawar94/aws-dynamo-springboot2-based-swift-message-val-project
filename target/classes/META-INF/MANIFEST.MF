@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Build-Jdk-Spec: 11
-Implementation-Title: payment-validator-demo
+Implementation-Title: aws-dynamodb-swift-val
 Implementation-Version: 1.0-SNAPSHOT
 Created-By: Maven Integration for Eclipse
 
